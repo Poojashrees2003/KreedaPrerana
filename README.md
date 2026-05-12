@@ -1,6 +1,6 @@
 # 🏃 KreedaPrerana
 
-KreedaPrerana is an Android-based sports management and athlete tracking application developed to manage athlete performance, trail activities, milestone achievements, and leaderboard rankings efficiently. The application helps coaches and athletes monitor progress, maintain trail records, and visualize achievements through a modern Android interface.
+KreedaPrerana Scout is an Android-based sports management and athlete tracking application developed to manage athlete performance, trail activities, milestone achievements, and leaderboard rankings efficiently. The application helps coaches and athletes monitor progress, maintain trail records, and visualize achievements through a modern Android interface.
 
 ---
 
