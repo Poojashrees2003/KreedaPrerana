@@ -1,18 +1,19 @@
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/Screenshot%202026-05-12%20123755.png)
+![Home Screen](screenshots/Screenshot%202026-05-12%20125127.png)
+
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Screenshot%202026-05-12%20125134.png)
 
 ### Trail Logger
-![Trail Logger](screenshots/trail_logger.png)
+![Trail Logger](screenshots/Screenshot%202026-05-12%20125158.png)
 
 ### View Trails
-![View Trails](screenshots/view_trails.png)
+![View Trails](screenshots/Screenshot%202026-05-12%20125208.png)
 
 ### Milestone Badge
-![Milestone Badge](screenshots/milestone_badge.png)
+![Milestone Badge](screenshots/Screenshot%202026-05-12%20125217.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](screenshots/Screenshot%202026-05-12%20125226.png)
