@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshot/Screenshot 2026-05-12 125127.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
