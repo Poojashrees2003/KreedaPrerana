@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.KreedaPrerana" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">#6A11CB</item>
+    </style>
+
+</resources>
